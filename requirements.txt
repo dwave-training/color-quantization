@@ -1,0 +1,4 @@
+dwave-ocean-sdk==4.4.0
+scipy==1.8.0
+notebook==6.2.0
+matplotlib==3.5.0
