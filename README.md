@@ -27,4 +27,4 @@ Jaschek, Tim, Marko Bucyk, and Jaspreet S. Oberoi. 2019. “A Quantum Annealing-
 
 ## License
 
-Released under the Apache License 2.0. See [license](LICENSE) here.
+See [license](LICENSE.md) file.
