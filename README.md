@@ -28,3 +28,6 @@ Jaschek, Tim, Marko Bucyk, and Jaspreet S. Oberoi. 2019. “A Quantum Annealing-
 ## License
 
 See [license](LICENSE.md) file.
+
+The rose image is licensed under the Creative Commons license.  See:
+https://commons.wikimedia.org/wiki/File:Rosa_Gold_Glow_2_small_noblue.png.
